@@ -1,48 +1,57 @@
-# Hi, I’m Ahmad Jazil Faiz 
+# Hi, I'm Ahmad Jazil Faiz 👋
 
-I am an Informatics student with a strong interest in **Machine Learning, Data Science, and Web Development**. You can call me **Faiz**   
-I enjoy building end-to-end projects — from data preprocessing and model training to deployment and web integration.
+I'm an Informatics graduate with a strong interest in **IT Support, Network Support, Technical Support, and Machine Learning**. You can call me **Faiz**.
 
----
-
-## I’m interested in
-- 🤖 Machine Learning & Artificial Intelligence  
-- 📊 Data Analysis & Sentiment Analysis  
-- 🌐 Backend & Web Development (FastAPI, Drupal)  
-- ☁️ Model Deployment & basic MLOps  
+I enjoy solving technical problems, troubleshooting systems and networks, and building practical solutions ranging from network monitoring to machine learning–based applications.
 
 ---
 
-## I’m currently learning
-- Advanced **Machine Learning techniques and model evaluation**
-- **Natural Language Processing (NLP)** for sentiment analysis and text classification
-- **API development and deployment** using FastAPI and Docker
-- Writing clean, maintainable, and well-documented code
+## 🚀 I'm interested in
+
+- IT Support & Technical Support
+- Computer Networking & Network Troubleshooting
+- Linux System Administration
+- Network Monitoring & Infrastructure
+- Machine Learning & Artificial Intelligence
 
 ---
 
-## I’m looking to collaborate on
-- Machine Learning or Data Science projects  
-- Research-oriented or academic projects  
-- Open-source projects related to AI, data, or backend systems  
+## 🌱 I'm currently learning
+
+- Windows & Linux system administration
+- Network diagnostics and troubleshooting
+- IT infrastructure and monitoring tools
+- Applied Machine Learning and Python automation
 
 ---
 
-## How to reach me
-- 📧 Email: *your-email@example.com*  
-- 💼 LinkedIn: *linkedin.com/in/yourprofile*  
-- 🧠 GitHub: [https://github.com/Ahmds20](https://github.com/Ahmds20)
+## 🤝 I'm looking to collaborate on
+
+- IT Support & Networking projects
+- Infrastructure monitoring solutions
+- Machine Learning & AI projects
+- Open-source tools for system administration and automation
 
 ---
 
-## Pronouns
+## 📫 How to reach me
+
+- **Email:** ahmadjazilfaiz24@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/ahmad-jazil-faiz-956788245/
+- **GitHub:** https://github.com/Ahmds20
+
+---
+
+## 😄 Pronouns
+
 He / Him
 
 ---
 
-## Fun fact
-I enjoy turning raw and messy datasets into meaningful insights 📈 and deploying models so they can be used in real-world applications 🚀
+## ⚡ Fun fact
+
+I enjoy diagnosing technical issues, improving network reliability, and applying machine learning to solve real-world problems.
 
 ---
 
-✨ *Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*
+✨ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
