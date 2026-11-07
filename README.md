@@ -1,57 +1,66 @@
 # Hi, I'm Ahmad Jazil Faiz 👋
 
-I'm an Informatics graduate with a strong interest in **IT Support, Network Support, Technical Support, and Machine Learning**. You can call me **Faiz**.
+I'm an Informatics graduate with a strong interest in **Software Engineering, Full Stack Development, and Building Scalable Applications**. You can call me **Faiz**.
 
-I enjoy solving technical problems, troubleshooting systems and networks, and building practical solutions ranging from network monitoring to machine learning–based applications.
+I enjoy designing and developing practical software solutions, working across frontend and backend technologies, and turning ideas into functional applications. My experience includes web development, database integration, API development, and applying machine learning to solve real-world problems.
 
 ---
 
-## 🚀 I'm interested in
+## 🚀 Areas of Interest
 
-- IT Support & Technical Support
-- Computer Networking & Network Troubleshooting
-- Linux System Administration
-- Network Monitoring & Infrastructure
+- Software Engineering & Full Stack Development
+- Frontend & Backend Web Development
+- REST API Development & Database Management
+- Software Architecture & Application Development
 - Machine Learning & Artificial Intelligence
+- Cloud Computing & Application Deployment
 
 ---
 
-## 🌱 I'm currently learning
+## 🛠️ Technologies & Tools
 
-- Windows & Linux system administration
-- Network diagnostics and troubleshooting
-- IT infrastructure and monitoring tools
-- Applied Machine Learning and Python automation
-
----
-
-## 🤝 I'm looking to collaborate on
-
-- IT Support & Networking projects
-- Infrastructure monitoring solutions
-- Machine Learning & AI projects
-- Open-source tools for system administration and automation
+- **Languages:** JavaScript, Python, SQL, HTML, CSS
+- **Frontend:** React.js, Tailwind CSS
+- **Backend:** Django, Flask, FastAPI
+- **Database:** PostgreSQL, SQLite
+- **Tools & Platforms:** Git, GitHub, Docker, AWS
+- **Monitoring:** Prometheus, Grafana
 
 ---
 
-## 📫 How to reach me
+## 🌱 Currently Learning
+
+- Advanced JavaScript and Full Stack Development
+- Backend Development and RESTful API Design
+- Software Engineering Best Practices
+- Application Deployment and Cloud Technologies
+- Building Scalable and Maintainable Applications
+
+---
+
+## 🤝 Looking to Collaborate On
+
+- Full Stack Web Development Projects
+- Software Engineering & Open-Source Projects
+- Web Applications and REST API Development
+- Machine Learning & AI-Based Applications
+
+---
+
+## 📂 Featured Projects
+
+Feel free to explore my repositories and portfolio to learn more about my work, projects, and technical experience.
+
+🌐 **Portfolio:** [my-portofolio-software-engineer.vercel.app](https://my-portofolio-software-engineer.vercel.app/)
+
+---
+
+## 📫 How to Reach Me
 
 - **Email:** ahmadjazilfaiz24@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/ahmad-jazil-faiz-956788245/
-- **GitHub:** https://github.com/Ahmds20
+- **LinkedIn:** [Ahmad Jazil Faiz](https://www.linkedin.com/in/ahmad-jazil-faiz-956788245/)
+- **GitHub:** [Ahmds20](https://github.com/Ahmds20)
 
 ---
 
-## 😄 Pronouns
-
-He / Him
-
----
-
-## ⚡ Fun fact
-
-I enjoy diagnosing technical issues, improving network reliability, and applying machine learning to solve real-world problems.
-
----
-
-✨ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
+✨ Thanks for visiting my GitHub profile! Feel free to explore my projects, check out my repositories, and connect with me.
